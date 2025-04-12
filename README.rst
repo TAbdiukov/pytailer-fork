@@ -2,7 +2,7 @@
 PyTailer fork
 ======
 
-This is a fork on pytailer with issue #16 being fixed, allowing the solution to detect line deletions and truncations.
+This is a fork on pytailer where additional logic is implemented, allowing the solution to detect line deletions and truncations.
 
 Tailer
 ======
